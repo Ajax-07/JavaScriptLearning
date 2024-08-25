@@ -27,7 +27,7 @@ console.log("kumar")
 
 // console.log("yaha") console.log("error h")    // error:  2 statement in single line
 
-// alert(3+3) // don't here nodejs h browser nhi.
+// alert(3+3) // don't here, nodejs h bhai browser nhi.
 
 // ab datatype:--------------------------------
 
@@ -37,7 +37,7 @@ let isHuman = true     // boolean
 let someValue = null   // null value if not assigned any
 let otherValue         // undefined var if not initialized
 
-console.table([myName, age, isHuman, someValue, otherValue]) // o/p 'ajay' 25 true null undefined
+console.table([myName, age, isHuman, someValue, otherValue])   // o/p: 'ajay' 25 true null undefined
 
 console.log(typeof myName)       // string
 console.log(typeof age)          // number
