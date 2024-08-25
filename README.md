@@ -1,3 +1,5 @@
-Learning JavaScript from Chai And Code.
+## Learning JavaScript from Chai And Code.
 
-# 01_Basics
+### 01_Basics
+
+> 1. Variables
